@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Wasserstein distances for wind-turbine power-curve monitoring: a pre-specified simulation comparison"
+authors:
+  - name: "Singularity"
+year: 2026
+url: "https://github.com/singularity-sd/wasserstein-turbine-monitoring"
+license: MIT
